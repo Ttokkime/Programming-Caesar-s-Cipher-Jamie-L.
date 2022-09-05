@@ -1,27 +1,14 @@
-# Programming Caesar's Cipher Starter Code
-This is a place for you to start building your Programming Caesar's Cipher Project!
-
-### Project Requirements
-Your project should:
-- Share an opening message with the user that describes what the program will do.
-- Include user input for the initialMessage (only capital letters), the key, and the mode (encrypt or decrypt).
-- Include a for loop that cycles through each character in the initialMessage.
-- Include a conditional statement that allows for multiple word messages.
-- Use a conditional statement to encrypt or decrypt the initialMessage based on user input.
-- Use a conditional statement to adjust the position of any wraparound characters.
-- Share the shiftedMessage with the user.
+# Programming Caesar's Cipher
+This program is very similar in purpose to the Cipher Usability program. The only main difference between the two is that this program asks for a user input only in capital letters while the Cipher Usability program asks for an input that can contain capital letters, lower case letters, punctuation, and more if the user wishes to. This program was made before I moved on to the Cipher Usability program and thus is different in that it is not as developed as the Cipher Usability program. 
 
 
-### Extensions
-You can extend your project further by:
-- Add another usability feature.
-- Add a while loop to repeat the program.
-- Explore other ciphers. 
+### Project
+This project:
+- Shares an opening message with the user that describes what the program will do.
+- Gets the user input (only capital letters), the key, and the mode (encrypt or decrypt).
+- Gives back the final message.
 
-###  Attributions
-*If you used any code, ideas, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- This code is inspired by Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart https://www.nostarch.com/crackingcodes (BSD Licensed)
-- Add here if applicable
+
 
 ---
 
