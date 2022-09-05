@@ -16,7 +16,7 @@ This project:
 
 ### ← README.md
 
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
+README.md file provides an introduction on the program and an overview of what the program is capable of doing.
 
 ### ← main.py
-This is where you will write your main program.
+The main code used for the Programming Ceasar's Cipher program.
