@@ -1,5 +1,5 @@
 # Programming Caesar's Cipher
-This program is very similar in purpose to the Cipher Usability program. The only main difference between the two is that this program asks for a user input only in capital letters while the Cipher Usability program asks for an input that can contain capital letters, lower case letters, punctuation, and more if the user wishes to. This program was made before I moved on to the Cipher Usability program and thus is different in that it is not as developed as the Cipher Usability program. 
+This program is very similar in purpose to the Cipher Usability program. The only main difference between the two is that this program asks for a user input only in capital letters while the Cipher Usability program asks for an input that can contain anything from capital letters to punctuation to miscellaneous characters. This program was made before I moved on to the Cipher Usability program and thus is different in that it is not as developed as the Cipher Usability program. 
 
 
 ### Project
